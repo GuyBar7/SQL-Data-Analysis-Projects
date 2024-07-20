@@ -1,0 +1,296 @@
+﻿Document Control,218,Tengiz Kharatishvili,2008-12-16,187,NULL,NULL,NULL
+Document Control,217,Zainal Arifin,2009-01-04,186,Tengiz Kharatishvili,2008-12-16,19
+Document Control,219,Sean Chai,2009-01-22,186,Zainal Arifin,2009-01-04,18
+Document Control,220,Karen Berge,2009-02-09,185,Sean Chai,2009-01-22,18
+Document Control,221,Chris Norred,2009-03-06,184,Karen Berge,2009-02-09,25
+Engineering,3,Roberto Tamburello,2007-11-11,200,NULL,NULL,NULL
+Engineering,4,Rob Walters,2007-12-05,199,Roberto Tamburello,2007-11-11,24
+Engineering,5,Gail Erickson,2008-01-06,198,Rob Walters,2007-12-05,32
+Engineering,6,Jossef Goldberg,2008-01-24,198,Gail Erickson,2008-01-06,18
+Engineering,2,Terri Duffy,2008-01-31,198,Jossef Goldberg,2008-01-24,7
+Engineering,14,Michael Sullivan,2010-12-30,163,Terri Duffy,2008-01-31,1064
+Engineering,15,Sharon Salavaria,2011-01-18,162,Michael Sullivan,2010-12-30,19
+Executive,1,Ken Sánchez,2009-01-14,186,NULL,NULL,NULL
+Executive,234,Laura Norman,2009-01-31,186,Ken Sánchez,2009-01-14,17
+Facilities and Maintenance,228,Christian Kleinerman,2008-12-14,187,NULL,NULL,NULL
+Facilities and Maintenance,227,Gary Altman,2009-12-02,175,Christian Kleinerman,2008-12-14,353
+Facilities and Maintenance,233,Magnus Hedlund,2009-12-21,175,Gary Altman,2009-12-02,19
+Facilities and Maintenance,232,Pat Coleman,2010-01-27,174,Magnus Hedlund,2009-12-21,37
+Facilities and Maintenance,229,Lori Penor,2010-02-16,173,Pat Coleman,2010-01-27,20
+Facilities and Maintenance,230,Stuart Macrae,2010-03-05,172,Lori Penor,2010-02-16,17
+Facilities and Maintenance,231,Jo Berry,2010-03-07,172,Stuart Macrae,2010-03-05,2
+Finance,242,Deborah Poe,2008-12-18,187,NULL,NULL,NULL
+Finance,249,Wendy Kahn,2008-12-25,187,Deborah Poe,2008-12-18,7
+Finance,243,Candy Spoon,2009-01-06,186,Wendy Kahn,2008-12-25,12
+Finance,262,David Barber,2009-01-12,186,Candy Spoon,2009-01-06,6
+Finance,244,Bryan Walton,2009-01-24,186,David Barber,2009-01-12,12
+Finance,241,David Liu,2009-01-30,186,Bryan Walton,2009-01-24,6
+Finance,234,Laura Norman,2009-01-31,186,David Liu,2009-01-30,1
+Finance,246,Dragan Tomic,2009-02-11,185,Laura Norman,2009-01-31,11
+Finance,245,Barbara Moreland,2009-02-18,185,Dragan Tomic,2009-02-11,7
+Finance,247,Janet Sheperdigian,2009-03-01,184,Barbara Moreland,2009-02-18,11
+Finance,248,Mike Seamans,2009-03-08,184,Janet Sheperdigian,2009-03-01,7
+Human Resources,235,Paula Barreto de Mattos,2008-12-06,187,NULL,NULL,NULL
+Human Resources,240,Willis Johnson,2008-12-13,187,Paula Barreto de Mattos,2008-12-06,7
+Human Resources,239,Mindy Martin,2008-12-25,187,Willis Johnson,2008-12-13,12
+Human Resources,238,Vidur Luthra,2009-01-01,186,Mindy Martin,2008-12-25,7
+Human Resources,237,Hao Chen,2009-02-06,185,Vidur Luthra,2009-01-01,36
+Human Resources,236,Grant Culbertson,2009-02-25,185,Hao Chen,2009-02-06,19
+Information Services,265,Ashvini Sharma,2008-12-04,187,NULL,NULL,NULL
+Information Services,263,Jean Trenary,2008-12-11,187,Ashvini Sharma,2008-12-04,7
+Information Services,272,Janaina Bueno,2008-12-23,187,Jean Trenary,2008-12-11,12
+Information Services,269,Dan Bacon,2009-01-11,186,Janaina Bueno,2008-12-23,19
+Information Services,270,François Ajenstat,2009-01-17,186,Dan Bacon,2009-01-11,6
+Information Services,271,Dan Wilson,2009-01-22,186,François Ajenstat,2009-01-17,5
+Information Services,268,Ramesh Meyyappan,2009-02-03,185,Dan Wilson,2009-01-22,12
+Information Services,264,Stephanie Conroy,2009-02-04,185,Ramesh Meyyappan,2009-02-03,1
+Information Services,267,Karen Berg,2009-02-16,185,Stephanie Conroy,2009-02-04,12
+Information Services,266,Peter Connelly,2009-02-23,185,Karen Berg,2009-02-16,7
+Marketing,17,Kevin Brown,2007-01-26,210,NULL,NULL,NULL
+Marketing,16,David Bradley,2007-12-20,199,Kevin Brown,2007-01-26,328
+Marketing,22,Sariya Harnpadoungsataya,2008-12-12,187,David Bradley,2007-12-20,358
+Marketing,23,Mary Gibson,2009-01-12,186,Sariya Harnpadoungsataya,2008-12-12,31
+Marketing,24,Jill Williams,2009-01-18,186,Mary Gibson,2009-01-12,6
+Marketing,21,Terry Eminhizer,2009-03-02,184,Jill Williams,2009-01-18,43
+Marketing,20,Wanida Benshoof,2011-01-07,162,Terry Eminhizer,2009-03-02,676
+Marketing,18,John Wood,2011-02-07,161,Wanida Benshoof,2011-01-07,31
+Marketing,19,Mary Dempsey,2011-02-14,161,John Wood,2011-02-07,7
+Marketing,250,Sheela Word,2011-02-25,161,Mary Dempsey,2011-02-14,11
+Production,28,Guy Gilbert,2006-06-30,217,NULL,NULL,NULL
+Production,40,JoLynn Dobney,2007-12-26,199,Guy Gilbert,2006-06-30,544
+Production,48,Ruth Ellerbrock,2008-01-06,198,JoLynn Dobney,2007-12-26,11
+Production,49,Barry Johnson,2008-01-07,198,Ruth Ellerbrock,2008-01-06,1
+Production,50,Sidney Higa,2008-02-02,197,Barry Johnson,2008-01-07,26
+Production,55,Taylor Maxwell,2008-02-08,197,Sidney Higa,2008-02-02,6
+Production,51,Jeffrey Ford,2008-02-20,197,Taylor Maxwell,2008-02-08,12
+Production,27,Jo Brown,2008-02-27,197,Jeffrey Ford,2008-02-20,7
+Production,52,Doris Hartwig,2008-03-10,196,Jo Brown,2008-02-27,12
+Production,62,John Campbell,2008-03-17,196,Doris Hartwig,2008-03-10,7
+Production,53,Diane Glimp,2008-03-28,196,John Campbell,2008-03-17,11
+Production,72,Steven Selikoff,2008-12-01,187,Diane Glimp,2008-03-28,248
+Production,167,David Johnson,2008-12-02,187,Steven Selikoff,2008-12-01,1
+Production,206,Stuart Munson,2008-12-02,187,David Johnson,2008-12-02,0
+Production,207,Greg Alderson,2008-12-02,187,Stuart Munson,2008-12-02,0
+Production,102,Zheng Mu,2008-12-03,187,Greg Alderson,2008-12-02,1
+Production,128,Paul Komosinski,2008-12-04,187,Zheng Mu,2008-12-03,1
+Production,135,Ivo Salmre,2008-12-04,187,Paul Komosinski,2008-12-04,0
+Production,58,Kendall Keil,2008-12-05,187,Ivo Salmre,2008-12-04,1
+Production,193,Alejandro McGuel,2008-12-06,187,Kendall Keil,2008-12-05,1
+Production,146,Jian Shuo Wang,2008-12-07,187,Alejandro McGuel,2008-12-06,1
+Production,109,Alice Ciccu,2008-12-07,187,Jian Shuo Wang,2008-12-07,0
+Production,168,Garrett Young,2008-12-07,187,Alice Ciccu,2008-12-07,0
+Production,108,Jinghao Liu,2008-12-08,187,Garrett Young,2008-12-07,1
+Production,44,Simon Rapier,2008-12-08,187,Jinghao Liu,2008-12-08,0
+Production,181,Michael Hines,2008-12-09,187,Simon Rapier,2008-12-08,1
+Production,187,Yvonne McKay,2008-12-09,187,Michael Hines,2008-12-09,0
+Production,194,Fred Northup,2008-12-12,187,Yvonne McKay,2008-12-09,3
+Production,94,Russell Hunter,2008-12-12,187,Fred Northup,2008-12-12,0
+Production,169,Susan Metters,2008-12-14,187,Russell Hunter,2008-12-12,2
+Production,110,Jun Cao,2008-12-14,187,Susan Metters,2008-12-14,0
+Production,161,Kirk Koenigsbauer,2008-12-15,187,Jun Cao,2008-12-14,1
+Production,78,Reuben D'sa,2008-12-15,187,Kirk Koenigsbauer,2008-12-15,0
+Production,70,David Ortiz,2008-12-15,187,Reuben D'sa,2008-12-15,0
+Production,153,Hanying Feng,2008-12-16,187,David Ortiz,2008-12-15,1
+Production,111,Suroor Fatima,2008-12-17,187,Hanying Feng,2008-12-16,1
+Production,195,Kevin Liu,2008-12-17,187,Suroor Fatima,2008-12-17,0
+Production,33,Annik Stahl,2008-12-17,187,Kevin Liu,2008-12-17,0
+Production,73,Carole Poland,2008-12-19,187,Annik Stahl,2008-12-17,2
+Production,95,Jim Scardelis,2008-12-19,187,Carole Poland,2008-12-19,0
+Production,170,George Li,2008-12-21,187,Jim Scardelis,2008-12-19,2
+Production,129,Gary Yukish,2008-12-22,187,George Li,2008-12-21,1
+Production,87,Cristian Petculescu,2008-12-22,187,Gary Yukish,2008-12-22,0
+Production,154,Raymond Sam,2008-12-23,187,Cristian Petculescu,2008-12-22,1
+Production,196,Shammi Mohamed,2008-12-24,187,Raymond Sam,2008-12-23,1
+Production,59,Bob Hohman,2008-12-24,187,Shammi Mohamed,2008-12-24,0
+Production,113,Linda Moschell,2008-12-25,187,Bob Hohman,2008-12-24,1
+Production,147,Sandra Reátegui Alayo,2008-12-26,187,Linda Moschell,2008-12-25,1
+Production,93,Kok-Ho Loh,2008-12-27,187,Sandra Reátegui Alayo,2008-12-26,1
+Production,188,Douglas Hite,2008-12-27,187,Kok-Ho Loh,2008-12-27,0
+Production,42,James Kramer,2008-12-27,187,Douglas Hite,2008-12-27,0
+Production,182,Nitin Mirchandani,2008-12-28,187,James Kramer,2008-12-27,1
+Production,32,Rebecca Laszlo,2008-12-29,187,Nitin Mirchandani,2008-12-28,1
+Production,197,Rajesh Patel,2008-12-31,187,Rebecca Laszlo,2008-12-29,2
+Production,112,John Evans,2009-01-01,186,Rajesh Patel,2008-12-31,1
+Production,171,David Yalovsky,2009-01-02,186,John Evans,2009-01-01,1
+Production,43,Nancy Anderson,2009-01-02,186,David Yalovsky,2009-01-02,0
+Production,162,Laura Steele,2009-01-03,186,Nancy Anderson,2009-01-02,1
+Production,127,David Hamilton,2009-01-03,186,Laura Steele,2009-01-03,0
+Production,155,Fadi Fakhouri,2009-01-04,186,David Hamilton,2009-01-03,1
+Production,198,Lorraine Nay,2009-01-04,186,Fadi Fakhouri,2009-01-04,0
+Production,31,Margie Shoop,2009-01-04,186,Lorraine Nay,2009-01-04,0
+Production,86,Ryan Cornelsen,2009-01-05,186,Margie Shoop,2009-01-04,1
+Production,99,Nuan Yu,2009-01-06,186,Ryan Cornelsen,2009-01-05,1
+Production,74,Bjorn Rettig,2009-01-07,186,Nuan Yu,2009-01-06,1
+Production,224,William Vong,2009-01-07,186,Bjorn Rettig,2009-01-07,0
+Production,208,Scott Gode,2009-01-08,186,William Vong,2009-01-07,1
+Production,133,Michael Rothkugel,2009-01-10,186,Scott Gode,2009-01-08,2
+Production,156,Lane Sacksteder,2009-01-11,186,Michael Rothkugel,2009-01-10,1
+Production,60,Pete Male,2009-01-11,186,Lane Sacksteder,2009-01-11,0
+Production,100,Lolan Song,2009-01-12,186,Pete Male,2009-01-11,1
+Production,199,Paula Nartker,2009-01-12,186,Lolan Song,2009-01-12,0
+Production,114,Mindaugas Krapauskas,2009-01-13,186,Paula Nartker,2009-01-12,1
+Production,134,Eric Gubbels,2009-01-14,186,Mindaugas Krapauskas,2009-01-13,1
+Production,148,Jason Watters,2009-01-14,186,Eric Gubbels,2009-01-14,0
+Production,189,Janeth Esteves,2009-01-15,186,Jason Watters,2009-01-14,1
+Production,172,Marc Ingle,2009-01-16,186,Janeth Esteves,2009-01-15,1
+Production,144,Paul Singh,2009-01-17,186,Marc Ingle,2009-01-16,1
+Production,200,Frank Lee,2009-01-17,186,Paul Singh,2009-01-17,0
+Production,61,Diane Tibbott,2009-01-18,186,Frank Lee,2009-01-17,1
+Production,115,Angela Barbariol,2009-01-20,186,Diane Tibbott,2009-01-18,2
+Production,160,Jeff Hay,2009-01-21,186,Angela Barbariol,2009-01-20,1
+Production,173,Eugene Zabokritski,2009-01-21,186,Jeff Hay,2009-01-21,0
+Production,41,Bryan Baker,2009-01-21,186,Eugene Zabokritski,2009-01-21,0
+Production,183,Barbara Decker,2009-01-22,186,Bryan Baker,2009-01-21,1
+Production,165,Chris Preston,2009-01-22,186,Barbara Decker,2009-01-22,0
+Production,29,Mark McArthur,2009-01-23,186,Chris Preston,2009-01-22,1
+Production,101,Houman Pournasseh,2009-01-25,186,Mark McArthur,2009-01-23,2
+Production,75,Michiko Osada,2009-01-26,186,Houman Pournasseh,2009-01-25,1
+Production,145,Cynthia Randall,2009-01-27,186,Michiko Osada,2009-01-26,1
+Production,174,Benjamin Martin,2009-01-27,186,Cynthia Randall,2009-01-27,0
+Production,209,Kathie Flood,2009-01-27,186,Benjamin Martin,2009-01-27,0
+Production,201,Brian Lloyd,2009-01-29,186,Kathie Flood,2009-01-27,2
+Production,30,Britta Simon,2009-01-29,186,Brian Lloyd,2009-01-29,0
+Production,116,Michael Patten,2009-01-31,186,Britta Simon,2009-01-29,2
+Production,149,Andy Ruth,2009-01-31,186,Michael Patten,2009-01-31,0
+Production,152,Yuhong Li,2009-02-01,185,Andy Ruth,2009-01-31,1
+Production,175,Reed Koch,2009-02-02,185,Yuhong Li,2009-02-01,1
+Production,190,Robert Rounthwaite,2009-02-02,185,Reed Koch,2009-02-02,0
+Production,157,Linda Randall,2009-02-03,185,Robert Rounthwaite,2009-02-02,1
+Production,25,James Hamilton,2009-02-03,185,Linda Randall,2009-02-03,0
+Production,138,Samantha Smith,2009-02-04,185,James Hamilton,2009-02-03,1
+Production,202,Tawana Nusbaum,2009-02-05,185,Samantha Smith,2009-02-04,1
+Production,56,Denise Smith,2009-02-05,185,Tawana Nusbaum,2009-02-05,0
+Production,46,Eugene Kogan,2009-02-08,185,Denise Smith,2009-02-05,3
+Production,35,Brandon Heidepriem,2009-02-08,185,Eugene Kogan,2009-02-08,0
+Production,186,Shane Kim,2009-02-08,185,Brandon Heidepriem,2009-02-08,0
+Production,163,Alex Nayberg,2009-02-08,185,Shane Kim,2009-02-08,0
+Production,184,John Chen,2009-02-09,185,Alex Nayberg,2009-02-08,1
+Production,36,Jose Lugo,2009-02-10,185,John Chen,2009-02-09,1
+Production,97,Mandar Samant,2009-02-10,185,Jose Lugo,2009-02-10,0
+Production,98,Sameer Tejani,2009-02-11,185,Mandar Samant,2009-02-10,1
+Production,76,Carol Philips,2009-02-12,185,Sameer Tejani,2009-02-11,1
+Production,118,Don Hall,2009-02-13,185,Carol Philips,2009-02-12,1
+Production,130,Rob Caron,2009-02-13,185,Don Hall,2009-02-13,0
+Production,176,David Lawrence,2009-02-14,185,Rob Caron,2009-02-13,1
+Production,131,Baris Cetinok,2009-02-15,185,David Lawrence,2009-02-14,1
+Production,71,Michael Ray,2009-02-15,185,Baris Cetinok,2009-02-15,0
+Production,69,Steve Masters,2009-02-15,185,Michael Ray,2009-02-15,0
+Production,34,Suchitra Mohan,2009-02-16,185,Steve Masters,2009-02-15,1
+Production,159,Terrence Earls,2009-02-16,185,Suchitra Mohan,2009-02-16,0
+Production,117,Chad Niswonger,2009-02-18,185,Terrence Earls,2009-02-16,2
+Production,151,Rostislav Shabalin,2009-02-19,185,Chad Niswonger,2009-02-18,1
+Production,180,Katie McAskill-White,2009-02-20,185,Rostislav Shabalin,2009-02-19,1
+Production,210,Belinda Newman,2009-02-20,185,Katie McAskill-White,2009-02-20,0
+Production,166,Jack Richins,2009-02-21,185,Belinda Newman,2009-02-20,1
+Production,177,Russell King,2009-02-21,185,Jack Richins,2009-02-21,0
+Production,132,Nicole Holliday,2009-02-22,185,Russell King,2009-02-21,1
+Production,47,Andrew Hill,2009-02-22,185,Nicole Holliday,2009-02-22,0
+Production,57,Frank Miller,2009-02-23,185,Andrew Hill,2009-02-22,1
+Production,137,Anibal Sousa,2009-02-23,185,Frank Miller,2009-02-23,0
+Production,203,Ken Myer,2009-02-24,185,Anibal Sousa,2009-02-23,1
+Production,119,Michael Entin,2009-02-25,185,Ken Myer,2009-02-24,1
+Production,150,Michael Vanderhyde,2009-02-26,185,Michael Entin,2009-02-25,1
+Production,191,Lionel Penuchot,2009-02-26,185,Michael Vanderhyde,2009-02-26,0
+Production,205,Lori Kane,2009-02-26,185,Lionel Penuchot,2009-02-26,0
+Production,45,Thomas Michaels,2009-02-26,185,Lori Kane,2009-02-26,0
+Production,185,Stefen Hesse,2009-02-28,185,Thomas Michaels,2009-02-26,2
+Production,96,Elizabeth Keyser,2009-03-02,184,Stefen Hesse,2009-02-28,2
+Production,77,Merav Netz,2009-03-03,184,Elizabeth Keyser,2009-03-02,1
+Production,178,John Frum,2009-03-03,184,Merav Netz,2009-03-03,0
+Production,120,Kitti Lertpiriyasuwat,2009-03-04,184,John Frum,2009-03-03,1
+Production,179,Jan Miksovsky,2009-03-05,184,Kitti Lertpiriyasuwat,2009-03-04,1
+Production,192,Brenda Diaz,2009-03-05,184,Jan Miksovsky,2009-03-05,0
+Production,67,Jay Adams,2009-03-05,184,Brenda Diaz,2009-03-05,0
+Production,164,Andrew Cencini,2009-03-06,184,Jay Adams,2009-03-05,1
+Production,158,Shelley Dyck,2009-03-07,184,Andrew Cencini,2009-03-06,1
+Production,37,Chris Okelberry,2009-03-07,184,Shelley Dyck,2009-03-07,0
+Production,204,Gabe Mares,2009-03-08,184,Chris Okelberry,2009-03-07,1
+Production,68,Charles Fitzgerald,2009-12-03,175,Gabe Mares,2009-03-08,270
+Production,103,Ebru Ersan,2009-12-06,175,Charles Fitzgerald,2009-12-03,3
+Production,85,Brian Goldstein,2009-12-11,175,Ebru Ersan,2009-12-06,5
+Production,136,Sylvester Valdez,2009-12-11,175,Brian Goldstein,2009-12-11,0
+Production,88,Betsy Stadick,2009-12-18,175,Sylvester Valdez,2009-12-11,7
+Production,66,Karan Khanna,2009-12-22,175,Betsy Stadick,2009-12-18,4
+Production,104,Mary Baker,2009-12-25,175,Karan Khanna,2009-12-22,3
+Production,105,Kevin Homer,2009-12-25,175,Mary Baker,2009-12-25,0
+Production,81,Mihail Frintu,2009-12-29,175,Kevin Homer,2009-12-25,4
+Production,54,Bonnie Kearney,2010-01-01,174,Mihail Frintu,2009-12-29,3
+Production,139,Hung-Fu Ting,2010-01-06,174,Bonnie Kearney,2010-01-01,5
+Production,91,Kimberly Zimmerman,2010-01-12,174,Hung-Fu Ting,2010-01-06,6
+Production,38,Kim Abercrombie,2010-01-16,174,Kimberly Zimmerman,2010-01-12,4
+Production,80,Sandeep Kaliyath,2010-01-17,174,Kim Abercrombie,2010-01-16,1
+Production,140,Prasanna Samarawickrama,2010-01-22,174,Sandeep Kaliyath,2010-01-17,5
+Production,141,Min Su,2010-01-24,174,Prasanna Samarawickrama,2010-01-22,2
+Production,79,Eric Brown,2010-01-24,174,Min Su,2010-01-24,0
+Production,63,Maciej Dusza,2010-01-29,174,Eric Brown,2010-01-24,5
+Production,89,Patrick Wedge,2010-02-01,173,Maciej Dusza,2010-01-29,3
+Production,84,Frank Martinez,2010-02-05,173,Patrick Wedge,2010-02-01,4
+Production,39,Ed Dudenhoefer,2010-02-05,173,Frank Martinez,2010-02-05,0
+Production,107,Christopher Hill,2010-02-08,173,Ed Dudenhoefer,2010-02-05,3
+Production,83,Patrick Cook,2010-02-12,173,Christopher Hill,2010-02-08,4
+Production,143,Krishna Sunkammurali,2010-02-13,173,Patrick Cook,2010-02-12,1
+Production,90,Danielle Tiedt,2010-02-20,173,Krishna Sunkammurali,2010-02-13,7
+Production,64,Michael Zwilling,2010-02-23,173,Danielle Tiedt,2010-02-20,3
+Production,65,Randy Reeves,2010-02-23,173,Michael Zwilling,2010-02-23,0
+Production,106,John Kane,2010-02-27,173,Randy Reeves,2010-02-23,4
+Production,82,Jack Creasey,2010-03-03,172,John Kane,2010-02-27,4
+Production,142,Olinda Turner,2010-03-04,172,Jack Creasey,2010-03-03,1
+Production,92,Tom Vande Velde,2010-03-10,172,Olinda Turner,2010-03-04,6
+Production Control,26,Peter Krebs,2008-12-01,187,NULL,NULL,NULL
+Production Control,222,A. Scott Wright,2008-12-12,187,Peter Krebs,2008-12-01,11
+Production Control,224,William Vong,2009-01-07,186,A. Scott Wright,2008-12-12,26
+Production Control,223,Sairaj Uddin,2009-01-26,186,William Vong,2009-01-07,19
+Production Control,225,Alan Brewer,2009-02-13,185,Sairaj Uddin,2009-01-26,18
+Production Control,226,Brian LaMee,2009-03-03,184,Alan Brewer,2009-02-13,18
+Purchasing,16,David Bradley,2007-12-20,199,NULL,NULL,NULL
+Purchasing,251,Mikael Sandberg,2009-02-10,185,David Bradley,2007-12-20,418
+Purchasing,252,Arvind Rao,2009-02-28,185,Mikael Sandberg,2009-02-10,18
+Purchasing,253,Linda Meisner,2009-12-17,175,Arvind Rao,2009-02-28,292
+Purchasing,254,Fukiko Ogisu,2010-01-04,174,Linda Meisner,2009-12-17,18
+Purchasing,255,Gordon Hee,2010-01-11,174,Fukiko Ogisu,2010-01-04,7
+Purchasing,256,Frank Pellow,2010-01-23,174,Gordon Hee,2010-01-11,12
+Purchasing,257,Eric Kurjan,2010-01-27,174,Frank Pellow,2010-01-23,4
+Purchasing,258,Erin Hagens,2010-01-31,174,Eric Kurjan,2010-01-27,4
+Purchasing,259,Ben Miller,2010-03-09,172,Erin Hagens,2010-01-31,37
+Purchasing,260,Annette Hill,2010-12-06,163,Ben Miller,2010-03-09,272
+Purchasing,261,Reinout Hillmann,2010-12-25,163,Annette Hill,2010-12-06,19
+Purchasing,250,Sheela Word,2011-02-25,161,Reinout Hillmann,2010-12-25,62
+Quality Assurance,212,Peng Wu,2008-12-09,187,NULL,NULL,NULL
+Quality Assurance,216,Sean Alexander,2008-12-28,187,Peng Wu,2008-12-09,19
+Quality Assurance,215,Mark Harrington,2009-01-15,186,Sean Alexander,2008-12-28,18
+Quality Assurance,214,Andreas Berglund,2009-02-02,185,Mark Harrington,2009-01-15,18
+Quality Assurance,211,Hazem Abolrous,2009-02-28,185,Andreas Berglund,2009-02-02,26
+Quality Assurance,213,Sootha Charncherngkha,2010-02-23,173,Hazem Abolrous,2009-02-28,360
+Quality Assurance,250,Sheela Word,2011-02-25,161,Sootha Charncherngkha,2010-02-23,367
+Research and Development,8,Diane Margheim,2008-12-29,187,NULL,NULL,NULL
+Research and Development,9,Gigi Matthew,2009-01-16,186,Diane Margheim,2008-12-29,18
+Research and Development,7,Dylan Miller,2009-02-08,185,Gigi Matthew,2009-01-16,23
+Research and Development,10,Michael Raheem,2009-05-03,182,Dylan Miller,2009-02-08,84
+Sales,274,Stephen Jiang,2011-01-04,162,NULL,NULL,NULL
+Sales,273,Brian Welcker,2011-02-15,161,Stephen Jiang,2011-01-04,42
+Sales,275,Michael Blythe,2011-05-31,158,Brian Welcker,2011-02-15,105
+Sales,276,Linda Mitchell,2011-05-31,158,Michael Blythe,2011-05-31,0
+Sales,277,Jillian Carson,2011-05-31,158,Linda Mitchell,2011-05-31,0
+Sales,278,Garrett Vargas,2011-05-31,158,Jillian Carson,2011-05-31,0
+Sales,279,Tsvi Reiter,2011-05-31,158,Garrett Vargas,2011-05-31,0
+Sales,280,Pamela Ansman-Wolfe,2011-05-31,158,Tsvi Reiter,2011-05-31,0
+Sales,281,Shu Ito,2011-05-31,158,Pamela Ansman-Wolfe,2011-05-31,0
+Sales,282,José Saraiva,2011-05-31,158,Shu Ito,2011-05-31,0
+Sales,283,David Campbell,2011-05-31,158,José Saraiva,2011-05-31,0
+Sales,287,Amy Alberts,2012-04-16,147,David Campbell,2011-05-31,321
+Sales,289,Jae Pak,2012-05-30,146,Amy Alberts,2012-04-16,44
+Sales,290,Ranjit Varkey Chudukatil,2012-05-30,146,Jae Pak,2012-05-30,0
+Sales,284,Tete Mensa-Annan,2012-09-30,142,Ranjit Varkey Chudukatil,2012-05-30,123
+Sales,285,Syed Abbas,2013-03-14,136,Tete Mensa-Annan,2012-09-30,165
+Sales,286,Lynn Tsoflias,2013-05-30,134,Syed Abbas,2013-03-14,77
+Sales,288,Rachel Valdez,2013-05-30,134,Lynn Tsoflias,2013-05-30,0
+Shipping and Receiving,122,Susan Eaton,2008-12-07,187,NULL,NULL,NULL
+Shipping and Receiving,123,Vamsi Kuppa,2008-12-07,187,Susan Eaton,2008-12-07,0
+Shipping and Receiving,124,Kim Ralls,2008-12-26,187,Vamsi Kuppa,2008-12-07,19
+Shipping and Receiving,121,Pilar Ackerman,2009-01-02,186,Kim Ralls,2008-12-26,7
+Shipping and Receiving,125,Matthias Berndt,2009-01-20,186,Pilar Ackerman,2009-01-02,18
+Shipping and Receiving,126,Jimmy Bischoff,2009-02-26,185,Matthias Berndt,2009-01-20,37
+Tool Design,4,Rob Walters,2007-12-05,199,NULL,NULL,NULL
+Tool Design,12,Thierry D'Hers,2007-12-11,199,Rob Walters,2007-12-05,6
+Tool Design,11,Ovidiu Cracium,2010-12-05,163,Thierry D'Hers,2007-12-11,1090
+Tool Design,13,Janice Galvin,2010-12-23,163,Ovidiu Cracium,2010-12-05,18
