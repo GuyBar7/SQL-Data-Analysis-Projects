@@ -1,9 +1,12 @@
-[![SQL](https://img.shields.io/badge/SQL-Database-blue)](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure)
-
 # AdventureWorks SQL Project
+
+[![SQL](https://img.shields.io/badge/SQL-Database-blue)](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure)
 
 ## Project Description
 In this project, I performed various SQL queries and data analyses on the AdventureWorks database to derive valuable insights and support business decision-making. This project was part of a Data Analyst course I completed, and it serves as the final assignment focusing on SQL.
+
+## Project Questions
+The `questions.md` file contains the list of questions addressed in this project.
 
 ## Queries
 The `queries.sql` file contains all the SQL queries performed in this project.
@@ -11,8 +14,6 @@ The `queries.sql` file contains all the SQL queries performed in this project.
 ## Results
 The `result` folder contains the results of the queries in CSV format.
 
-## Database Structure
-The `diagrams` folder contains diagrams and ERDs that explain the structure of the database.
 
 ## Usage
 1. Download and restore the database in your SQL environment.
